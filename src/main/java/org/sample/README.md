@@ -7,5 +7,5 @@
 - VirtualThreads
 
 ## Запуск
-mvn clean package
+mvn clean package  
 java -jar target/benchmarks.jar
